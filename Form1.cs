@@ -18,17 +18,27 @@ namespace Korrect
 
         }
 
-        private void Options_Click(object sender, EventArgs e)
+        private void зполнитьToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void редактироватьToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void Korrect_Load(object sender, EventArgs e)
+        private void выходToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void загрузитьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
